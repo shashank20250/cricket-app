@@ -1,0 +1,52 @@
+# Cricket Game App 🏏
+
+A simple console-based cricket game built with Python. Play a quick match against the computer, keep score, and have fun!
+
+## Features
+
+- Batting and bowling mini-game
+- Randomized outcomes for gameplay excitement
+- Scoreboard tracking
+- Easy to extend and customize
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.7 or above
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/shashank20250/cricket-app.git
+cd cricket-app
+```
+
+### Running the Game
+
+```bash
+python main.py
+```
+
+## Project Structure
+
+```
+cricket-app/
+├── main.py
+├── README.md
+└── .gitignore
+```
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Made with ❤️ by [shashank20250](https://github.com/shashank20250)
